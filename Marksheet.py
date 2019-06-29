@@ -1,5 +1,3 @@
-import csv
-
 maths = int(input("Enter Mathamatics marks: "))
 phy = int(input("Enter Physics marks: "))
 comp = int(input("Enter Computer marks: "))
